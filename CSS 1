@@ -9,8 +9,17 @@
             background-image: url('images/calisthenics.jpg');
         }
 
-        * {
+        h1 {
             color: blanchedalmond;
+            text-align: center;
+        }
+
+        link {
+            color: blue
+        }
+
+        p {
+            color: blue
         }
     </style>
 </head>
@@ -20,8 +29,16 @@
 </div>
 
 <body>
-    <p>
 
+    <link><a href="css1.html" target="_blank">Home</a></link>
+    <link><a href="Routine.html" target="_blank">Leg Day</a></link>
+    <link><a href="Chest.html" target="_blank">Push Day</a></link>
+    <p style="text-align: center;">
+        Hello and welcome to my lovely page on Calistehnics! calistenics is a wonderful way to stay in shape with only
+        using your body.
+        This means that it is essentially free! Not only that but it's a lot of fun. The only thing you may need to buy
+        is a pull up bar for those tough back and bicep days. Without further adeu allow me to show you the exercises
+        involved for each day!
     </p>
 
 </body>
